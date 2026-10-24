@@ -1,0 +1,14 @@
+{
+  "Programming": [
+    "python", "variable", "function", "database", "algorithm",
+    "compiler", "network", "keyboard", "browser", "internet"
+  ],
+  "Fruits": [
+    "banana", "mango", "orange", "papaya", "guava",
+    "pineapple", "strawberry", "watermelon", "apple", "grapes"
+  ],
+  "Animals": [
+    "elephant", "giraffe", "dolphin", "tiger", "monkey",
+    "kangaroo", "penguin", "rabbit", "zebra", "peacock"
+  ]
+}
